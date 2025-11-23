@@ -1,0 +1,5 @@
+{
+  "name": "VoxaCut",
+  "description": "A headless video editor featuring Pexels stock footage and OpenAI TTS integration.",
+  "requestFramePermissions": []
+}
